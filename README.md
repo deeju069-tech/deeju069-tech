@@ -51,7 +51,7 @@ I'm Deeju R B
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeju069-tech&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeju069-tech&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeju069-tech&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeju069-tech&theme=radical)  
 
 ---
 
