@@ -47,11 +47,13 @@ I'm Deeju R B
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeju069-tech&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeju069-tech&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeju069-tech&theme=radical)  
+![GitHub Stats](https://img.shields.io/badge/GitHub-Deeju069--tech-181717?style=for-the-badge&logo=github&logoColor=white)
+![Top Languages](https://img.shields.io/badge/Top%20Languages-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Streak](https://img.shields.io/badge/Streak-🔥%20Work-FF0000?style=for-the-badge)
+![Visitor Count](https://img.shields.io/badge/Visitors-1000-blue?style=for-the-badge)
+
 
 ---
 
