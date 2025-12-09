@@ -52,8 +52,6 @@ I'm Deeju R B
 ![GitHub Stats](https://img.shields.io/badge/GitHub-Deeju069--tech-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Top Languages](https://img.shields.io/badge/Top%20Languages-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Streak](https://img.shields.io/badge/Streak-🔥%20Work-FF0000?style=for-the-badge)
-![Visitor Count](https://img.shields.io/badge/Visitors-1000-blue?style=for-the-badge)
-
 
 ---
 
@@ -66,5 +64,8 @@ I'm Deeju R B
 ---
 
 ## 👀 Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=deeju069-tech.deeju069-tech)
+![Visitor Count](https://img.shields.io/badge/Visitors-1000-blue?style=for-the-badge)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=deeju069-tech.deeju069-tech)
