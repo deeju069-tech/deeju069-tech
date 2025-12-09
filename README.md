@@ -49,7 +49,7 @@ I'm Deeju R B
 
 ## 📊 GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeju069-tech&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://img.shields.io/badge/GitHub-Deeju069--tech-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Top Languages](https://img.shields.io/badge/Top%20Languages-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Streak](https://img.shields.io/badge/Streak-🔥%20Work-FF0000?style=for-the-badge)
 
