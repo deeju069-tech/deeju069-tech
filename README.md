@@ -14,6 +14,8 @@ I'm Deeju R B
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deejurb69)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deejurbor@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-dheeii.ai-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dheeii.ai/)
+
 
 ## Tech Stack :
 
