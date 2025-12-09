@@ -49,9 +49,9 @@ I'm Deeju R B
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeju069-tech&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeju069-tech&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeju069-tech&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?deeju069-tech.deeju069-tecH&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?deeju069-tech.deeju069-tecH&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?deeju069-tech.deeju069-tec&theme=radical)
 
 ---
 
@@ -65,4 +65,4 @@ I'm Deeju R B
 
 ## 👀 Visitor Counter
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=deeju069-tech.deeju069-tech)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=deeju069-tech.deeju069-tecH)
