@@ -26,3 +26,8 @@ I'm Deeju R B
 📊 Analytics: Power BI
 
 🤝 Open to collaboration on practical, innovative, and open-source projects
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deejurb69)
+
