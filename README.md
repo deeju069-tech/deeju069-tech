@@ -62,10 +62,3 @@ I'm Deeju R B
 > — *John von Neumann*
 
 ---
-
-## 👀 Visitor Count
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=deeju069-tech.deeju069-tech)
-![Visitor Count](https://img.shields.io/badge/Visitors-1000-blue?style=for-the-badge)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=deeju069-tech.deeju069-tech)
