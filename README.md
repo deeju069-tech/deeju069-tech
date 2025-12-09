@@ -47,16 +47,21 @@ I'm Deeju R B
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeju069-tech&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeju069-tech&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deeju069-tech&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeju069-tech&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeju069-tech&theme=radical)
 
-> "Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number."  
-> — John von Neumann
+---
 
+💡 **Quote of the Day** 💡
+
+> "Any one who considers **arithmetical methods of producing random digits** is, of course, in a state of sin.  
+> For, as has been pointed out several times, there is **no such thing as a random number**."  
+> — *John von Neumann*
+
+---
 
 ## 👀 Visitor Counter
 
