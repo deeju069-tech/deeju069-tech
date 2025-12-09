@@ -1,5 +1,5 @@
 ## About Me:
-<!--
+
 **deeju069-tech/deeju069-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 🎨 Tools I use: Power BI
 
 🤝 Open to collaboration on practical, innovative, and open-source projects
-
--->
